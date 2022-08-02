@@ -8,7 +8,7 @@ const MainText = (props: Props) => {
   return (
     <div>
       <div className="px-5 text-center lg:text-left">
-        <h1 className="text-3xl md:text-4xl lg:text-6xl font-bold lg:w-[22.875rem] mb-8 lg:mb-[4.1875rem] mt-32">
+        <h1 className="text-3xl md:text-4xl lg:text-6xl font-bold lg:w-[22.875rem] mb-8 lg:mb-[4.1875rem] lg:mt-32">
           {props.title}
         </h1>
         <p className="text-base lg:text-lg lg:max-w-[24.875rem] text-Medium_Gray font-medium mb-8 lg:mb-14">
