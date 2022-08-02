@@ -1,7 +1,7 @@
 import { useState } from "react"
-import Icon from "../svgComponents/Icon"
-import IconDown from "../svgComponents/IconDown"
-import IconOpenMenu from "../svgComponents/IconOpenMenu"
+import Icon from "../icons/Icon"
+import IconDown from "../icons/IconDown"
+import IconOpenMenu from "../icons/IconOpenMenu"
 import MobileMenu from "./MobileMenu"
 import NavLinks from "./NavLinks"
 

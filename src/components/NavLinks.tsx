@@ -1,10 +1,10 @@
 import { useState } from "react"
-import IconCalender from "../svgComponents/IconCalender"
-import IconDown from "../svgComponents/IconDown"
-import IconPlanning from "../svgComponents/IconPlanning"
-import IconReminders from "../svgComponents/IconReminders"
-import IconTodo from "../svgComponents/IconTodo"
-import IconUp from "../svgComponents/IconUp"
+import IconCalender from "../icons/IconCalender"
+import IconDown from "../icons/IconDown"
+import IconPlanning from "../icons/IconPlanning"
+import IconReminders from "../icons/IconReminders"
+import IconTodo from "../icons/IconTodo"
+import IconUp from "../icons/IconUp"
 
 const NavLinks = () => {
   const [openFeatures, setOpenFeatures] = useState(false)

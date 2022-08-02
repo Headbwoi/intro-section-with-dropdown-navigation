@@ -8,7 +8,8 @@ module.exports = {
     screens: {
       sm: "640px",
       md: "768px",
-      lg: "1150px",
+      lg: "996px",
+      xl: "1145px",
     },
     colors: {
       Almost_White: "hsl(0, 0%, 98%)",
