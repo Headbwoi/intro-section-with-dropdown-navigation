@@ -1,6 +1,5 @@
 import { useState } from "react"
 import Icon from "../icons/Icon"
-import IconDown from "../icons/IconDown"
 import IconOpenMenu from "../icons/IconOpenMenu"
 import MobileMenu from "./MobileMenu"
 import NavLinks from "./NavLinks"

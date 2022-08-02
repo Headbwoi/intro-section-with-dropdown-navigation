@@ -14,7 +14,7 @@ const imageUrls: Props = {
 
 const MainImage = () => {
   return (
-    <div className="lg:w-[30.3125rem] lg:h-[40.3125rem] mb-[3.125rem] lg:mb-0">
+    <div className="lg:w-[30.3125rem] lg:h-[40.3125rem] mb-[3.125rem]">
       <picture>
         <source media={imageUrls.width} srcSet={imageUrls.imgSrcLg} />
         <img src={imageUrls.imgSrc} alt={imageUrls.altName} />

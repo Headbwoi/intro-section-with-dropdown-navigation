@@ -8,8 +8,8 @@ import IconTodo from "../icons/IconTodo"
 import IconUp from "../icons/IconUp"
 
 interface Props {
-  openMenu: boolean | any
-  setOpenMenu: boolean | any
+  openMenu: boolean
+  setOpenMenu: React.Dispatch<React.SetStateAction<boolean>>
 }
 
 const MobileMenu = ({ openMenu, setOpenMenu }: Props) => {
