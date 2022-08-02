@@ -23,6 +23,9 @@ module.exports = {
       padding: {
         px_header: "1.125rem",
       },
+      boxShadow: {
+        link: "0px 10px 50px hsla(0, 0%, 41%, 0.3)",
+      },
     },
   },
   plugins: [],

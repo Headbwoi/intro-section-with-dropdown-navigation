@@ -1,14 +1,14 @@
 function IconCloseMenu() {
-  const closeMenu = () => {
-    document.querySelector(".mobile-menu")?.classList.add("hidden")
-  }
+  // const closeMenu = () => {
+  //   document.querySelector(".mobile-menu")?.classList.add("hidden")
+  // }
 
   return (
     <svg
       width="26"
       height="26"
       xmlns="http://www.w3.org/2000/svg"
-      onClick={closeMenu}
+      // onClick={closeMenu}
     >
       <g fill="#151515" fill-rule="evenodd">
         <path d="m2.393.98 22.628 22.628-1.414 1.414L.979 2.395z" />
