@@ -6,7 +6,7 @@ type Props = {
 }
 const MainText = (props: Props) => {
   return (
-    <>
+    <div>
       <div className="px-5 text-center lg:text-left">
         <h1 className="text-3xl md:text-4xl lg:text-6xl font-bold lg:w-[22.875rem] mb-8 lg:mb-[4.1875rem] mt-32">
           {props.title}
@@ -22,7 +22,7 @@ const MainText = (props: Props) => {
         </button>
       </div>
       <Clients />
-    </>
+    </div>
   )
 }
 
