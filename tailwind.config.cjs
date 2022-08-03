@@ -18,7 +18,7 @@ module.exports = {
       white: "hsl(0, 0%, 100%)",
     },
     fontFamily: {
-      epilogue: ["'Epilogue', 'sans_serif'"],
+      epilogue: ["'Epilogue', sans-serif"],
     },
     extend: {
       padding: {
