@@ -42,7 +42,7 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - TypeScript - For Type
-- [TaikwindCSS](https://tailwindcss.com/) - For styles
+- [TailwindCSS](https://tailwindcss.com/) - For styles
 
 ### What I learned
 
